@@ -1,0 +1,179 @@
+* {
+  color: black;
+  font-family: Helvetica;
+  box-sizing: border-box;
+}
+
+.section-link {
+  background-color: steelblue;
+  text-align: right;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+}
+
+.section-link a{
+  background-color: steelblue;
+  margin: 5px;
+}
+
+.section-link a:hover {
+  color: white;
+  background-color: skyblue;
+}
+
+[href]{
+  color: black;
+  font-family: Helvetica;
+}
+
+#intro {
+  text-align: center;
+  font-size: 30px;
+  font-family: Gill Sans;
+  height: 50vh;
+  padding: 50px 0;
+}
+
+.title-myname {
+  height: 100vh;
+  font-family: Gill Sans;
+}
+
+img {
+  border: 1px solid;
+  border-radius: 5px;
+  position: absolute;
+  top: 25px;
+  left: 0;
+  height: 50%;
+  width: 33%;
+}
+
+#visitor {
+  position: absolute;
+  right: 0px;
+}
+
+ul {
+  list-style-type: square;
+}
+
+h1 {
+  position: absolute;
+  top: 50px;
+  right: 325px;
+  width: 50%;
+}
+
+h3 {
+  font-size: 40px;
+  font-family: Helvetica;
+  text-align: center;
+  width: 100%;
+  background: steelblue;
+}
+
+.title-aboutme {
+  position: relative;
+}
+
+.child {
+  display: inline;
+  float: left;
+}
+
+.kid{
+  display: inline-block;
+  float: bottom;
+  width: 100%;
+}
+
+.para-aboutme {
+  font-size: 20px;
+  font-family: Helvetica;
+  padding: 25px;
+  width: 50%;
+}
+
+.list-bio {
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+#bio {
+}
+
+.container {
+  positoin: relative;
+  top: 50px;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.skills {
+  text-align: right;
+  padding: 5px;
+}
+
+#skills {
+  width: 40%;
+  display: inline;
+  float: right;
+  position: relative;
+  top: -20px;
+}
+.title-skills {
+  background: none;
+}
+
+.html {
+  width: 90%; 
+  background-color: steelblue;
+}
+
+.css {
+  width: 80%;
+  background: steelblue;
+}
+
+.js {
+  width: 15%;
+  background: steelblue;
+}
+
+.aws {
+  width: 45%;
+  background: steelblue;
+}
+
+#title-work {
+  text-align: center;
+  clear: both;
+}
+
+#WorkExperience {
+  font-size: 20px;
+  font-family: Helvetica;
+  position: relative;
+  top: 150px;
+}
+
+#Education {
+  font-size: 20px;
+  font-family: Helvetica;
+  padding: 0px;
+  position: relative;
+  top: 150px;
+  width: 100%;
+}
+
+.list-education {
+  position: relative;
+  left: 350px;
+}
+
+
+
+

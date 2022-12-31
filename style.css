@@ -53,6 +53,17 @@ img {
 #visitor {
   position: absolute;
   right: 0px;
+  display: flex;
+}
+
+#visitor p {
+   font-size: 2rem;
+   font-weight: bold;
+}
+
+#viewcounter {
+  margin-left: 1.25rem;
+
 }
 
 ul {
